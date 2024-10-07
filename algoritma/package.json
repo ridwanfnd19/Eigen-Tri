@@ -1,0 +1,15 @@
+{
+  "name": "eigen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "reversealphabet": "node src/reverse-alphabet.js" ,
+    "longestword": "node src/longest-word.js" ,
+    "countquery": "node src/count-query.js" ,
+    "diagonal": "node src/diagonal-difference.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
